@@ -1,0 +1,23 @@
+{
+  "name": "assignments-node-iii-html-css-js",
+  "version": "1.0.0",
+  "description": "Server der kan håndtere html css og js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersDall/Assignments-Node-III-HTML-CSS-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersDall/Assignments-Node-III-HTML-CSS-JS/issues"
+  },
+  "homepage": "https://github.com/AndersDall/Assignments-Node-III-HTML-CSS-JS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "http-status-codes": "^1.4.0"
+  }
+}
